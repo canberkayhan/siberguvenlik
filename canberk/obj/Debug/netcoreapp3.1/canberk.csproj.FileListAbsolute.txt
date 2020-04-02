@@ -1,0 +1,11 @@
+C:\Users\CANBERK\source\repos\canberk\canberk\bin\Debug\netcoreapp3.1\canberk.exe
+C:\Users\CANBERK\source\repos\canberk\canberk\bin\Debug\netcoreapp3.1\canberk.deps.json
+C:\Users\CANBERK\source\repos\canberk\canberk\bin\Debug\netcoreapp3.1\canberk.runtimeconfig.json
+C:\Users\CANBERK\source\repos\canberk\canberk\bin\Debug\netcoreapp3.1\canberk.runtimeconfig.dev.json
+C:\Users\CANBERK\source\repos\canberk\canberk\bin\Debug\netcoreapp3.1\canberk.dll
+C:\Users\CANBERK\source\repos\canberk\canberk\bin\Debug\netcoreapp3.1\canberk.pdb
+C:\Users\CANBERK\source\repos\canberk\canberk\obj\Debug\netcoreapp3.1\canberk.csprojAssemblyReference.cache
+C:\Users\CANBERK\source\repos\canberk\canberk\obj\Debug\netcoreapp3.1\canberk.AssemblyInfoInputs.cache
+C:\Users\CANBERK\source\repos\canberk\canberk\obj\Debug\netcoreapp3.1\canberk.AssemblyInfo.cs
+C:\Users\CANBERK\source\repos\canberk\canberk\obj\Debug\netcoreapp3.1\canberk.dll
+C:\Users\CANBERK\source\repos\canberk\canberk\obj\Debug\netcoreapp3.1\canberk.pdb
